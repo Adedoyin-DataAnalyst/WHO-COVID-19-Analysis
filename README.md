@@ -1,7 +1,7 @@
 # WHO-COVID-19-Analysis
 
 - Project Title: WHO COVID-19 Analysis
-- Data Visualization Tool: Tableau
+- Data Visualization Tool: Tableau & Excel (Power Query)
 - Datasets Source: WHO Database
 
 ## Data Insights
