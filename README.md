@@ -1,8 +1,8 @@
 # WHO-COVID-19-Analysis
 
-Project Title: WHO COVID-19 Analysis
-Data Visualization Tool: Tableau 
-Datasets Source: WHO Database
+- Project Title: WHO COVID-19 Analysis
+- Data Visualization Tool: Tableau
+- Datasets Source: WHO Database
 
 ## Data Insights
 - Total Global Cases
